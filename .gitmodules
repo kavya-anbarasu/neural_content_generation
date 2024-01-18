@@ -1,3 +1,6 @@
 [submodule "nrms-bert"]
 	path = nrms-bert
 	url = git@github.com:kavya-anbarasu/nrms-bert.git
+[submodule "text-adversarial-attack"]
+	path = text-adversarial-attack
+	url = git@github.com:kavya-anbarasu/text-adversarial-attack.git
